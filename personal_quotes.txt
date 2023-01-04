@@ -1,2 +1,2 @@
 Some quote 1
-Quote when testing merge conflict 1
+Quote when testing merge conflict 1 with information for conflict resolution
