@@ -1,1 +1,2 @@
 Some quote 1
+Quote when testing merge conflict 1
