@@ -1,3 +1,4 @@
 Some quote 1
 Quote when testing merge conflict 2
+Added new line
 

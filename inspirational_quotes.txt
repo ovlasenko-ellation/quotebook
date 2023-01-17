@@ -1,3 +1,3 @@
 Some text1
 text2
-Text 3 to test conflict
+Text 3
